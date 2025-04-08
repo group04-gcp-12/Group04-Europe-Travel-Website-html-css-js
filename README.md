@@ -3,6 +3,11 @@ A Responsive Adventure & Tour Website Design Using HTML CSS  & JavaScript Step B
 
 Originally forked from https://github.com/GNiruthian/Europe-Travel-Website-html-css-js
 
+# Cloud Engineers
+- Rudy Rivera
+- Julio Chavez
+- Fernando Alvarez
+
 # The Problem
 
 The CEO of Travel Europe LLC is trying to launch and maintain a completely new website to attract potential customers. They have decided to work with Google Cloud resources, their PMs advisors have recommended the organization’s CTO to hire a team of three cloud engineers and take the ‘green field’ approach for this project leveraging the power of Google Cloud resources. 
